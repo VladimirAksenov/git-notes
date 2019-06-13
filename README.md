@@ -1,4 +1,4 @@
-Git notes readme
+Git notes readme v1
 
 1. git init - Создание репозитория 
 2. git add - Добавление содержимого из выбранной директории 
