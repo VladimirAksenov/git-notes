@@ -28,3 +28,4 @@ d. . Indicates that all files will be untracked.
 7. Install - Копирование .jar в локальный репозиторий
 8. Site – Создание документации
 9. Deploy – Завершение, копия проекта в удаленное хранилище 
+10. 
