@@ -19,3 +19,12 @@ c. -cached will only remove file index.
 d. . Indicates that all files will be untracked.
 
 
+a.	Clean - удаление всех созданных в процессе сборки артефактов: .class, .jar
+b.	Validate – проверка проекта на правильность
+c.	Compile – компилирование 
+d.	Test - Тестирование с помощью JUnit тестов
+e.	Package - Создание .jar файла
+f.	Verify – Проверка результатов теста на правильность
+g.	Install - Копирование .jar в локальный репозиторий
+h.	Site – Создание документации
+i.	Deploy – Завершение, копия проекта в удаленное хранилище 
